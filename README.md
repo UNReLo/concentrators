@@ -1,2 +1,2 @@
-# concentrators
-Hardware and software related to 
+# Concentrators
+Hardware and software related to the custom concentrators

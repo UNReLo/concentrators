@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=main.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=main.SchDoc|Designator=U_host|SchDesignator=U_host|FileName=host.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=host.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=main.SchDoc|Designator=U_power|SchDesignator=U_power|FileName=power.SchDoc|SheetNumber=5|SymbolType=Normal|RawFileName=power.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=main.SchDoc|Designator=U_rf|SchDesignator=U_rf|FileName=rf.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=rf.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=rf.SchDoc|Designator=U_rf-fem|SchDesignator=U_rf-fem|FileName=rf-fem.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=rf-fem.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
