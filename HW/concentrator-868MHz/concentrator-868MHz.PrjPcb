@@ -605,6 +605,12 @@ OutputName8=Report Single Pin Nets
 OutputDocumentPath8=
 OutputVariantName8=[No Variations]
 OutputDefault8=0
+OutputType9=Export Project History
+OutputName9=Export Project History
+OutputDocumentPath9=
+OutputVariantName9=[No Variations]
+OutputDefault9=0
+PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [OutputGroup7]
 Name=Other Outputs
@@ -955,6 +961,7 @@ Type116=1
 Type117=1
 Type118=1
 Type119=1
+Type120=1
 
 [Difference Levels]
 Type1=1
@@ -1277,7 +1284,7 @@ Net15=NetName=FL2_IN|NetColor=clYellow
 Net16=NetName=FL2_OUT|NetColor=clYellow
 Net17=NetName=FL3_IN|NetColor=clYellow
 Net18=NetName=FL3_OUT|NetColor=clYellow
-Net19=NetName=GND|NetColor=clBlack
+Net19=NetName=GND|NetColor=$0000607F
 Net20=NetName=LORA_ANT|NetColor=clYellow
 Net21=NetName=LORA_ANT_SIG|NetColor=clYellow
 Net22=NetName=NetC?_2|NetColor=clYellow
@@ -1304,17 +1311,21 @@ Net42=NetName=NetC41_2|NetColor=clYellow
 Net43=NetName=NetC42_1|NetColor=clYellow
 Net44=NetName=NetC43_2|NetColor=clYellow
 Net45=NetName=NetC44_1|NetColor=clYellow
-Net46=NetName=NetC50_2|NetColor=clYellow
-Net47=NetName=NetC53_2|NetColor=clYellow
-Net48=NetName=NetC54_2|NetColor=clYellow
-Net49=NetName=NetFB?_1|NetColor=$00000099
-Net50=NetName=NetL1_1|NetColor=$00000099
-Net51=NetName=PA_OUT|NetColor=clYellow
-Net52=NetName=RF_IN|NetColor=clYellow
-Net53=NetName=RFO|NetColor=clYellow
-Net54=NetName=TCXO_VDD|NetColor=$00000099
-Net55=NetName=TX_IN|NetColor=clYellow
-Net56=NetName=VR_PA|NetColor=clYellow
+Net46=NetName=NetC44_2|NetColor=clYellow
+Net47=NetName=NetC45_1|NetColor=clYellow
+Net48=NetName=NetC45_2|NetColor=clYellow
+Net49=NetName=NetC46_1|NetColor=clYellow
+Net50=NetName=NetC50_2|NetColor=clYellow
+Net51=NetName=NetC53_2|NetColor=clYellow
+Net52=NetName=NetC54_2|NetColor=clYellow
+Net53=NetName=NetFB?_1|NetColor=$00000099
+Net54=NetName=NetL1_1|NetColor=$00000099
+Net55=NetName=PA_OUT|NetColor=clYellow
+Net56=NetName=RF_IN|NetColor=clYellow
+Net57=NetName=RFO|NetColor=clYellow
+Net58=NetName=TCXO_VDD|NetColor=$00000099
+Net59=NetName=TX_IN|NetColor=clYellow
+Net60=NetName=VR_PA|NetColor=clYellow
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
