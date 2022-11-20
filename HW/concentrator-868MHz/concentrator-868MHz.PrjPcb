@@ -186,6 +186,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TDSFWHTR
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for concentrator-868MHz\Design Rule Check - concentrator_pcb.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
