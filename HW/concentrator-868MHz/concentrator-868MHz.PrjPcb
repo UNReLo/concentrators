@@ -136,23 +136,6 @@ GenerateClassCluster=0
 DocumentUniqueId=YXKVTOTU
 
 [Document6]
-DocumentPath=lora-concentrator-868.BomDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document7]
 DocumentPath=CAD-libraries\ECS-TXO-25CSMV-320-DY-TR.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -169,7 +152,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document8]
+[Document7]
 DocumentPath=rf-fem.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -186,123 +169,161 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TDSFWHTR
 
+[Document8]
+DocumentPath=concentrator_pcb.PCBDwf
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=SAQNPBVJ
+
+[Document9]
+DocumentPath=concentrator-868MHz.BomDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
-DocumentPath=Project Outputs for concentrator-868MHz\concentrator_pcb.DRR
+DocumentPath=concentrator-868MHz.sdf
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for concentrator-868MHz\concentrator_pcb.EXTREP
+DocumentPath=Project Outputs for concentrator-868MHz\concentrator_pcb.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for concentrator-868MHz\concentrator_pcb.GBL
+DocumentPath=Project Outputs for concentrator-868MHz\concentrator_pcb.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for concentrator-868MHz\concentrator_pcb.GBO
+DocumentPath=Project Outputs for concentrator-868MHz\concentrator_pcb.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for concentrator-868MHz\concentrator_pcb.GBP
+DocumentPath=Project Outputs for concentrator-868MHz\concentrator_pcb.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for concentrator-868MHz\concentrator_pcb.GBS
+DocumentPath=Project Outputs for concentrator-868MHz\concentrator_pcb.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for concentrator-868MHz\concentrator_pcb.GD1
+DocumentPath=Project Outputs for concentrator-868MHz\concentrator_pcb.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for concentrator-868MHz\concentrator_pcb.GG1
+DocumentPath=Project Outputs for concentrator-868MHz\concentrator_pcb.GD1
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for concentrator-868MHz\concentrator_pcb.GM
+DocumentPath=Project Outputs for concentrator-868MHz\concentrator_pcb.GG1
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for concentrator-868MHz\concentrator_pcb.GM1
+DocumentPath=Project Outputs for concentrator-868MHz\concentrator_pcb.GM
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for concentrator-868MHz\concentrator_pcb.GM2
+DocumentPath=Project Outputs for concentrator-868MHz\concentrator_pcb.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for concentrator-868MHz\concentrator_pcb.GM3
+DocumentPath=Project Outputs for concentrator-868MHz\concentrator_pcb.GM2
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for concentrator-868MHz\concentrator_pcb.GM4
+DocumentPath=Project Outputs for concentrator-868MHz\concentrator_pcb.GM3
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for concentrator-868MHz\concentrator_pcb.GM5
+DocumentPath=Project Outputs for concentrator-868MHz\concentrator_pcb.GM4
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for concentrator-868MHz\concentrator_pcb.GM13
+DocumentPath=Project Outputs for concentrator-868MHz\concentrator_pcb.GM5
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for concentrator-868MHz\concentrator_pcb.GM15
+DocumentPath=Project Outputs for concentrator-868MHz\concentrator_pcb.GM13
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for concentrator-868MHz\concentrator_pcb.GM16
+DocumentPath=Project Outputs for concentrator-868MHz\concentrator_pcb.GM15
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for concentrator-868MHz\concentrator_pcb.GP1
+DocumentPath=Project Outputs for concentrator-868MHz\concentrator_pcb.GM16
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for concentrator-868MHz\concentrator_pcb.GP2
+DocumentPath=Project Outputs for concentrator-868MHz\concentrator_pcb.GP1
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for concentrator-868MHz\concentrator_pcb.GPB
+DocumentPath=Project Outputs for concentrator-868MHz\concentrator_pcb.GP2
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs for concentrator-868MHz\concentrator_pcb.GPT
+DocumentPath=Project Outputs for concentrator-868MHz\concentrator_pcb.GPB
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project Outputs for concentrator-868MHz\concentrator_pcb.GTL
+DocumentPath=Project Outputs for concentrator-868MHz\concentrator_pcb.GPT
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Project Outputs for concentrator-868MHz\concentrator_pcb.GTO
+DocumentPath=Project Outputs for concentrator-868MHz\concentrator_pcb.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=Project Outputs for concentrator-868MHz\concentrator_pcb.GTP
+DocumentPath=Project Outputs for concentrator-868MHz\concentrator_pcb.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=Project Outputs for concentrator-868MHz\concentrator_pcb.GTS
+DocumentPath=Project Outputs for concentrator-868MHz\concentrator_pcb.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=Project Outputs for concentrator-868MHz\concentrator_pcb.LDP
+DocumentPath=Project Outputs for concentrator-868MHz\concentrator_pcb.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument27]
-DocumentPath=Project Outputs for concentrator-868MHz\concentrator_pcb.REP
+DocumentPath=Project Outputs for concentrator-868MHz\concentrator_pcb.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument28]
-DocumentPath=Project Outputs for concentrator-868MHz\concentrator_pcb.TXT
+DocumentPath=Project Outputs for concentrator-868MHz\concentrator_pcb.REP
 DItemRevisionGUID=
 
 [GeneratedDocument29]
-DocumentPath=Project Outputs for concentrator-868MHz\Design Rule Check - concentrator_pcb.html
+DocumentPath=Project Outputs for concentrator-868MHz\concentrator_pcb.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument30]
+DocumentPath=Project Outputs for concentrator-868MHz\Design Rule Check - concentrator_pcb.html
+DItemRevisionGUID=
+
+[GeneratedDocument31]
 DocumentPath=Project Outputs for concentrator-868MHz\Pick Place for concentrator_pcb.csv
 DItemRevisionGUID=
 
@@ -356,6 +377,126 @@ SaveSettingsToOutJob=0
 
 [Generic_EDE]
 OutputDir=
+
+[Generic_SignalIntegritySimulation]
+SignalIntegrityInitialised=-1
+TrackImpedance=50
+TrackLength=25000000
+UseManhattan=-1
+UseSupplyNetsRules=-1
+SupplyNetsCount=0
+UseStimulusRules=-1
+StimKind=1
+StimLevel=0
+StimStartTime=1E-8
+StimStopTime=6E-8
+StimPeriodTime=1E-7
+
+[Generic_SignalIntegrityPanelSetup]
+TerminationName0=No Termination
+TerminationEnabled0=True
+TerminationSweeps0=1
+TerminationName1=Serial Res
+TerminationEnabled1=False
+TerminationSweeps1=10
+TerminationName2=Parallel Res to VCC
+TerminationEnabled2=False
+TerminationSweeps2=10
+TerminationName3=Parallel Res to GND
+TerminationEnabled3=False
+TerminationSweeps3=10
+TerminationName4=Parallel Res to VCC & GND
+TerminationEnabled4=False
+TerminationSweeps4=10
+TerminationName5=Parallel Cap to GND
+TerminationEnabled5=False
+TerminationSweeps5=10
+TerminationName6=Res and Cap to GND
+TerminationEnabled6=False
+TerminationSweeps6=10
+TerminationName7=Parallel Schottky Diodes
+TerminationEnabled7=False
+TerminationSweeps7=10
+TerminationMinR10=0
+TerminationMaxR10=0
+TerminationPrefR10=0
+TerminationMinR20=0
+TerminationMaxR20=0
+TerminationPrefR20=0
+TerminationMinC0=0
+TerminationMaxC0=0
+TerminationPrefC0=0
+TerminationVCC0=0
+TerminationMinR11=25
+TerminationMaxR11=150
+TerminationPrefR11=47
+TerminationMinR21=0
+TerminationMaxR21=0
+TerminationPrefR21=0
+TerminationMinC1=0
+TerminationMaxC1=0
+TerminationPrefC1=0
+TerminationVCC1=0
+TerminationMinR12=50
+TerminationMaxR12=200
+TerminationPrefR12=100
+TerminationMinR22=0
+TerminationMaxR22=0
+TerminationPrefR22=0
+TerminationMinC2=0
+TerminationMaxC2=0
+TerminationPrefC2=0
+TerminationVCC2=5
+TerminationMinR13=0
+TerminationMaxR13=0
+TerminationPrefR13=0
+TerminationMinR23=50
+TerminationMaxR23=200
+TerminationPrefR23=100
+TerminationMinC3=0
+TerminationMaxC3=0
+TerminationPrefC3=0
+TerminationVCC3=0
+TerminationMinR14=50
+TerminationMaxR14=200
+TerminationPrefR14=100
+TerminationMinR24=50
+TerminationMaxR24=200
+TerminationPrefR24=100
+TerminationMinC4=0
+TerminationMaxC4=0
+TerminationPrefC4=0
+TerminationVCC4=5
+TerminationMinR15=0
+TerminationMaxR15=0
+TerminationPrefR15=0
+TerminationMinR25=0
+TerminationMaxR25=0
+TerminationPrefR25=0
+TerminationMinC5=2.35E-11
+TerminationMaxC5=9.4E-11
+TerminationPrefC5=4.7E-11
+TerminationVCC5=0
+TerminationMinR16=0
+TerminationMaxR16=0
+TerminationPrefR16=0
+TerminationMinR26=34
+TerminationMaxR26=136
+TerminationPrefR26=68
+TerminationMinC6=5E-11
+TerminationMaxC6=2E-10
+TerminationPrefC6=1E-10
+TerminationVCC6=0
+TerminationMinR17=0
+TerminationMaxR17=0
+TerminationPrefR17=0
+TerminationMinR27=0
+TerminationMaxR27=0
+TerminationPrefR27=0
+TerminationMinC7=0
+TerminationMaxC7=0
+TerminationPrefC7=0
+TerminationVCC7=5
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -721,13 +862,13 @@ Configuration1_Item4=
 Configuration1_Name5=SortOrder
 Configuration1_Item5=Designator=Up
 Configuration1_Name6=VisibleOrder
-Configuration1_Item6=Line #=54|Comment=123|Description=82|Designator=294|Quantity=67|Manufacturer 1=102|Manufacturer Part Number 1=169|Supplier 1=75|Supplier Part Number 1=142|Supplier Unit Price 1=127|Supplier Subtotal 1=122
+Configuration1_Item6=Line #=54|Comment=52|Description=82|Designator=80|Revision ID=80|Revision Status=101|Quantity=67|Manufacturer 1=102|Manufacturer Part Number 1=169|Manufacturer Lifecycle 1=147|Supplier 1=75|Supplier Part Number 1=142|Supplier Unit Price 1=127|Supplier Subtotal 1=122
 Configuration1_Name7=VisibleOrder_Base
-Configuration1_Item7=Line #=54|Comment=123|Description=82|Designator=294|Quantity=67|Manufacturer 1=102|Manufacturer Part Number 1=169|Supplier 1=75|Supplier Part Number 1=142|Supplier Unit Price 1=127|Supplier Subtotal 1=122
+Configuration1_Item7=Line #=54|Comment=52|Description=82|Designator=80|Revision ID=80|Revision Status=101|Quantity=67|Manufacturer 1=102|Manufacturer Part Number 1=169|Manufacturer Lifecycle 1=147|Supplier 1=75|Supplier Part Number 1=142|Supplier Unit Price 1=127|Supplier Subtotal 1=122
 Configuration1_Name8=VisibleOrder_Consolidated
-Configuration1_Item8=Line #=54|Comment=52|Description=82|Designator=80|Revision ID=140|Revision Status=101|Quantity=67|Manufacturer 1=102|Manufacturer Part Number 1=169|Manufacturer Lifecycle 1=147|Supplier 1=75|Supplier Part Number 1=142|Supplier Unit Price 1=127|Supplier Subtotal 1=122
+Configuration1_Item8=Line #=100|Comment=100|Description=100|Designator=100|Revision ID=100|Revision Status=100|Quantity=100|Manufacturer 1=102|Manufacturer Part Number 1=169|Manufacturer Lifecycle 1=147|Supplier 1=75|Supplier Part Number 1=142|Supplier Unit Price 1=127|Supplier Subtotal 1=122
 Configuration1_Name9=VisibleOrder_Flat
-Configuration1_Item9=Line #=54|Comment=52|Description=82|Designator=80|Revision ID=140|Revision Status=101|Manufacturer 1=102|Manufacturer Part Number 1=169|Manufacturer Lifecycle 1=147|Supplier 1=125|Supplier Part Number 1=142|Supplier Unit Price 1=127|Supplier Subtotal 1=122
+Configuration1_Item9=Line #=100|Comment=100|Description=100|Designator=100|Revision ID=100|Revision Status=100|Manufacturer 1=102|Manufacturer Part Number 1=169|Manufacturer Lifecycle 1=147|Supplier 1=75|Supplier Part Number 1=142|Supplier Unit Price 1=127|Supplier Subtotal 1=122
 OutputType2=BOM_ReportCompare
 OutputName2=BOM Compare
 OutputDocumentPath2=
@@ -765,8 +906,8 @@ OutputName8=Report Single Pin Nets
 OutputDocumentPath8=
 OutputVariantName8=[No Variations]
 OutputDefault8=0
-OutputType9=Export Project History
-OutputName9=Export Project History
+OutputType9=Project History
+OutputName9=Project History
 OutputDocumentPath9=
 OutputVariantName9=[No Variations]
 OutputDefault9=0
@@ -1430,62 +1571,64 @@ Net1=NetName=+1V2_VCCCORE|NetColor=$000099FF
 Net2=NetName=+3V3_VCCIO|NetColor=$006666E0
 Net3=NetName=+3V3_VCCMAIN|NetColor=$00000099
 Net4=NetName=+5V_IN|NetColor=clRed
-Net5=NetName=A_RFI_N|NetColor=clYellow
-Net6=NetName=A_RFI_P|NetColor=clYellow
-Net7=NetName=B_RFI_N|NetColor=clYellow
-Net8=NetName=B_RFI_P|NetColor=clYellow
-Net9=NetName=FB|NetColor=$000099FF
-Net10=NetName=FEM_RX|NetColor=clYellow
-Net11=NetName=FEM_TX|NetColor=clYellow
-Net12=NetName=FEM_VCC1|NetColor=clYellow
-Net13=NetName=FL1_IN|NetColor=clYellow
-Net14=NetName=FL1_OUT|NetColor=clYellow
-Net15=NetName=FL2_IN|NetColor=clYellow
-Net16=NetName=FL2_OUT|NetColor=clYellow
-Net17=NetName=FL3_IN|NetColor=clYellow
-Net18=NetName=FL3_OUT|NetColor=clYellow
-Net19=NetName=GND|NetColor=$0000607F
-Net20=NetName=LORA_ANT|NetColor=clYellow
-Net21=NetName=LORA_ANT_SIG|NetColor=clYellow
-Net22=NetName=NetC?_2|NetColor=clYellow
-Net23=NetName=NetC15_1|NetColor=clYellow
-Net24=NetName=NetC16_1|NetColor=$006666E0
-Net25=NetName=NetC18_1|NetColor=clYellow
-Net26=NetName=NetC18_2|NetColor=clYellow
-Net27=NetName=NetC20_2|NetColor=clYellow
-Net28=NetName=NetC21_1|NetColor=clYellow
-Net29=NetName=NetC21_2|NetColor=clYellow
-Net30=NetName=NetC22_2|NetColor=clYellow
-Net31=NetName=NetC23_2|NetColor=clYellow
-Net32=NetName=NetC25_2|NetColor=clYellow
-Net33=NetName=NetC26_2|NetColor=clYellow
-Net34=NetName=NetC27_1|NetColor=clYellow
-Net35=NetName=NetC29_1|NetColor=clBlack
-Net36=NetName=NetC30_1|NetColor=clYellow
-Net37=NetName=NetC34_1|NetColor=clYellow
-Net38=NetName=NetC35_1|NetColor=clYellow
-Net39=NetName=NetC35_2|NetColor=clYellow
-Net40=NetName=NetC36_1|NetColor=clYellow
-Net41=NetName=NetC36_2|NetColor=clYellow
-Net42=NetName=NetC41_2|NetColor=clYellow
-Net43=NetName=NetC42_1|NetColor=clYellow
-Net44=NetName=NetC43_2|NetColor=clYellow
-Net45=NetName=NetC44_1|NetColor=clYellow
-Net46=NetName=NetC44_2|NetColor=clYellow
-Net47=NetName=NetC45_1|NetColor=clYellow
-Net48=NetName=NetC45_2|NetColor=clYellow
-Net49=NetName=NetC46_1|NetColor=clYellow
-Net50=NetName=NetC50_2|NetColor=clYellow
-Net51=NetName=NetC53_2|NetColor=clYellow
-Net52=NetName=NetC54_2|NetColor=clYellow
-Net53=NetName=NetFB?_1|NetColor=$00000099
-Net54=NetName=NetL1_1|NetColor=$00000099
-Net55=NetName=PA_OUT|NetColor=clYellow
-Net56=NetName=RF_IN|NetColor=clYellow
-Net57=NetName=RFO|NetColor=clYellow
-Net58=NetName=TCXO_VDD|NetColor=$00000099
-Net59=NetName=TX_IN|NetColor=clYellow
-Net60=NetName=VR_PA|NetColor=clYellow
+Net5=NetName=+5V_MAIN|NetColor=clRed
+Net6=NetName=A_RFI_N|NetColor=clYellow
+Net7=NetName=A_RFI_P|NetColor=clYellow
+Net8=NetName=B_RFI_N|NetColor=clYellow
+Net9=NetName=B_RFI_P|NetColor=clYellow
+Net10=NetName=FB|NetColor=$000099FF
+Net11=NetName=FEM_RX|NetColor=clYellow
+Net12=NetName=FEM_TX|NetColor=clYellow
+Net13=NetName=FEM_VCC1|NetColor=clYellow
+Net14=NetName=FL1_IN|NetColor=clYellow
+Net15=NetName=FL1_OUT|NetColor=clYellow
+Net16=NetName=FL2_IN|NetColor=clYellow
+Net17=NetName=FL2_OUT|NetColor=clYellow
+Net18=NetName=FL3_IN|NetColor=clYellow
+Net19=NetName=FL3_OUT|NetColor=clYellow
+Net20=NetName=GND|NetColor=$0000607F
+Net21=NetName=LORA_ANT|NetColor=clYellow
+Net22=NetName=LORA_ANT_SIG|NetColor=clYellow
+Net23=NetName=NetC?_2|NetColor=clYellow
+Net24=NetName=NetC15_1|NetColor=clYellow
+Net25=NetName=NetC16_1|NetColor=$006666E0
+Net26=NetName=NetC18_1|NetColor=clYellow
+Net27=NetName=NetC18_2|NetColor=clYellow
+Net28=NetName=NetC20_1|NetColor=clYellow
+Net29=NetName=NetC20_2|NetColor=clYellow
+Net30=NetName=NetC21_1|NetColor=clYellow
+Net31=NetName=NetC21_2|NetColor=clYellow
+Net32=NetName=NetC22_2|NetColor=clYellow
+Net33=NetName=NetC23_2|NetColor=clYellow
+Net34=NetName=NetC25_2|NetColor=clYellow
+Net35=NetName=NetC26_2|NetColor=clYellow
+Net36=NetName=NetC27_1|NetColor=clYellow
+Net37=NetName=NetC29_1|NetColor=clBlack
+Net38=NetName=NetC30_1|NetColor=clYellow
+Net39=NetName=NetC34_1|NetColor=clYellow
+Net40=NetName=NetC35_1|NetColor=clYellow
+Net41=NetName=NetC35_2|NetColor=clYellow
+Net42=NetName=NetC36_1|NetColor=clYellow
+Net43=NetName=NetC36_2|NetColor=clYellow
+Net44=NetName=NetC41_2|NetColor=clYellow
+Net45=NetName=NetC42_1|NetColor=clYellow
+Net46=NetName=NetC43_2|NetColor=clYellow
+Net47=NetName=NetC44_1|NetColor=clYellow
+Net48=NetName=NetC44_2|NetColor=clYellow
+Net49=NetName=NetC45_1|NetColor=clYellow
+Net50=NetName=NetC45_2|NetColor=clYellow
+Net51=NetName=NetC46_1|NetColor=clYellow
+Net52=NetName=NetC50_2|NetColor=clYellow
+Net53=NetName=NetC53_2|NetColor=clYellow
+Net54=NetName=NetC54_2|NetColor=clYellow
+Net55=NetName=NetFB?_1|NetColor=$00000099
+Net56=NetName=NetL1_1|NetColor=$00000099
+Net57=NetName=PA_OUT|NetColor=clYellow
+Net58=NetName=RF_IN|NetColor=clYellow
+Net59=NetName=RFO|NetColor=clYellow
+Net60=NetName=TCXO_VDD|NetColor=$00000099
+Net61=NetName=TX_IN|NetColor=clYellow
+Net62=NetName=VR_PA|NetColor=clYellow
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
