@@ -208,123 +208,7 @@ DocumentPath=concentrator-868MHz.sdf
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for concentrator-868MHz\concentrator_pcb.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for concentrator-868MHz\concentrator_pcb.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for concentrator-868MHz\concentrator_pcb.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for concentrator-868MHz\concentrator_pcb.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for concentrator-868MHz\concentrator_pcb.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for concentrator-868MHz\concentrator_pcb.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for concentrator-868MHz\concentrator_pcb.GD1
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for concentrator-868MHz\concentrator_pcb.GG1
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for concentrator-868MHz\concentrator_pcb.GM
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for concentrator-868MHz\concentrator_pcb.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for concentrator-868MHz\concentrator_pcb.GM2
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for concentrator-868MHz\concentrator_pcb.GM3
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for concentrator-868MHz\concentrator_pcb.GM4
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project Outputs for concentrator-868MHz\concentrator_pcb.GM5
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Project Outputs for concentrator-868MHz\concentrator_pcb.GM13
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=Project Outputs for concentrator-868MHz\concentrator_pcb.GM15
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=Project Outputs for concentrator-868MHz\concentrator_pcb.GM16
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=Project Outputs for concentrator-868MHz\concentrator_pcb.GP1
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=Project Outputs for concentrator-868MHz\concentrator_pcb.GP2
-DItemRevisionGUID=
-
-[GeneratedDocument21]
-DocumentPath=Project Outputs for concentrator-868MHz\concentrator_pcb.GPB
-DItemRevisionGUID=
-
-[GeneratedDocument22]
-DocumentPath=Project Outputs for concentrator-868MHz\concentrator_pcb.GPT
-DItemRevisionGUID=
-
-[GeneratedDocument23]
-DocumentPath=Project Outputs for concentrator-868MHz\concentrator_pcb.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument24]
-DocumentPath=Project Outputs for concentrator-868MHz\concentrator_pcb.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument25]
-DocumentPath=Project Outputs for concentrator-868MHz\concentrator_pcb.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument26]
-DocumentPath=Project Outputs for concentrator-868MHz\concentrator_pcb.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument27]
-DocumentPath=Project Outputs for concentrator-868MHz\concentrator_pcb.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument28]
-DocumentPath=Project Outputs for concentrator-868MHz\concentrator_pcb.REP
-DItemRevisionGUID=
-
-[GeneratedDocument29]
-DocumentPath=Project Outputs for concentrator-868MHz\concentrator_pcb.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument30]
 DocumentPath=Project Outputs for concentrator-868MHz\Design Rule Check - concentrator_pcb.html
-DItemRevisionGUID=
-
-[GeneratedDocument31]
-DocumentPath=Project Outputs for concentrator-868MHz\Pick Place for concentrator_pcb.csv
 DItemRevisionGUID=
 
 [Configuration1]
@@ -623,7 +507,7 @@ OutputDefault1=0
 [OutputGroup3]
 Name=Documentation Outputs
 Description=
-TargetPrinter=Virtual Printer
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=0
 OutputType1=Composite
 OutputName1=Composite Drawing
