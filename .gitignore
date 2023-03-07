@@ -4,6 +4,7 @@
 
 # History Folders
 **/History/*
+**/Legacy/*
 
 # Project Logs
 Project Logs*/
@@ -70,3 +71,11 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# Camtastic
+*.cam*
+
+# Fab outputs
+HW/concentrator-868MHz/updated-unrelo-concentrator-files/updated-unrelo-concentrator-files/*
+HW/concentrator-868MHz/unrelo-concentrator-fab-files/n3wfab/*
+*.zip
