@@ -79,3 +79,6 @@ dkms.conf
 HW/concentrator-868MHz/updated-unrelo-concentrator-files/updated-unrelo-concentrator-files/*
 HW/concentrator-868MHz/unrelo-concentrator-fab-files/n3wfab/*
 *.zip
+
+#images
+*.img
