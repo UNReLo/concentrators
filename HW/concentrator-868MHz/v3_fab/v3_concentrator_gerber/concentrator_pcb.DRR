@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: concentrator_pcb.PcbDoc   01/05/2023  03:38:59
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : concentrator_pcb.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             205       PTH        38.60inch (980.37mm)
+T2      15mil (0.381mm)                                           Round             1         PTH        0.00inch (0.00mm)
+T3      16mil (0.399mm)                                           Round             13        PTH        4.67inch (118.57mm)
+T4      40mil (1.021mm)                                           Round             46        PTH        9.64inch (244.80mm)
+T5      44mil (1.11mm)                                            Round             44        PTH        4.30inch (109.22mm)
+T6      110mil (2.799mm)                                          Round             4         NPTH       4.09inch (104.00mm)
+T7      134mil (3.401mm)                                          Round             4         NPTH       12.37inch (314.11mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              317
+
+Total Processing Time (hh:mm:ss) : 00:00:00

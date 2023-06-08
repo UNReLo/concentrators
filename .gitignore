@@ -78,6 +78,9 @@ dkms.conf
 # Fab outputs
 HW/concentrator-868MHz/updated-unrelo-concentrator-files/updated-unrelo-concentrator-files/*
 HW/concentrator-868MHz/unrelo-concentrator-fab-files/n3wfab/*
+HW/concentrator-868MHz/march-fab/*
+HW/concentrator-868MHz/march-fab-2/*
+
 *.zip
 
 #images
